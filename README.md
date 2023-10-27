@@ -40,8 +40,3 @@ The training data goes in the pop_music_midi folder. You have to use MIDI files.
 I have already added pop songs.
 Training will take 5-10 minutes on a modern laptop. The output will be a collection of midi files.
 
-## Credits
-
-The credit for this code goes to [dshieble](https://github.com/dshieble) and [llSourcell](https://github.com/llSourcell/Music_Generator_Demo)
-
-Have fun!
