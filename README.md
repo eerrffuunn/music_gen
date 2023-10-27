@@ -1,12 +1,10 @@
 # tensorflow-music-generator
-<img src="https://github.com/koflerm/tensorflow-music-generator/blob/master/music.png?raw=true"/>
 </br>
 generates music (midi files) using a Tensorflow RNN
 
 
 ## Overview
 Use TensorFlow to generate short sequences of music with a [Restricted Boltzmann Machine](http://deeplearning4j.org/restrictedboltzmannmachine.html). 
-Original code comes from YouTube, see here: (https://youtu.be/ZE7qWXX05T0)
 
 ## Dependencies
 
